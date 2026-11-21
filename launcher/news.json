@@ -1,0 +1,45 @@
+{
+  "version": 1,
+
+  "news": [
+    {
+      "id": "welcome",
+      "date": "2026-11-20",
+      "pinned": true,
+      "category": { "ru": "Aurus Project", "en": "Aurus Project" },
+      "title": { "ru": "Добро пожаловать в Aurus Project", "en": "Welcome to Aurus Project" },
+      "summary": { "ru": "Сервер MTA:SA на карте GTA Province.", "en": "An MTA:SA server on the GTA Province map." },
+      "content": {
+        "ru": "Aurus Project — сервер Multi Theft Auto на карте **GTA Province**.\n\n## Как начать\n- Нажмите «Установить» и выберите папку\n- Дождитесь окончания загрузки — её можно прерывать, она продолжится с того же места\n- Нажмите «Играть»: лаунчер сам подключит вас к серверу\n\nВопросы и предложения — в нашем [Telegram](https://t.me/aypycproject).",
+        "en": "Aurus Project is a Multi Theft Auto server on the **GTA Province** map.\n\n## Getting started\n- Press Install and choose a folder\n- Wait for the download to finish — you can pause it, it resumes where it left off\n- Press Play: the launcher connects you to the server\n\nQuestions and ideas — on our [Telegram](https://t.me/aypycproject)."
+      },
+      "image": "images/news1.png",
+      "button": { "text": { "ru": "Играть →", "en": "Play →" }, "action": "play" }
+    },
+    {
+      "id": "telegram",
+      "date": "2026-11-20",
+      "category": { "ru": "Сообщество", "en": "Community" },
+      "title": { "ru": "Следите за новостями", "en": "Stay tuned" },
+      "summary": { "ru": "Анонсы, обновления и общение — в нашем Telegram.", "en": "Announcements, updates and chat — on our Telegram." },
+      "image": "images/news2.png",
+      "button": { "text": { "ru": "Открыть Telegram →", "en": "Open Telegram →" }, "url": "https://t.me/aypycproject" }
+    },
+    {
+      "id": "shop-soon",
+      "date": "2026-11-20",
+      "category": { "ru": "Магазин", "en": "Shop" },
+      "title": { "ru": "Магазин проекта", "en": "Project shop" },
+      "summary": { "ru": "Привилегии и бонусы для игроков — скоро.", "en": "Perks and bonuses for players — coming soon." },
+      "image": "images/news3.png",
+      "button": { "text": { "ru": "В магазин →", "en": "To the shop →" }, "action": "shop" }
+    }
+  ],
+
+  "shop": {
+    "title": { "ru": "Магазин Aurus Project", "en": "Aurus Project Shop" },
+    "subtitle": { "ru": "Привилегии, игровая валюта и эксклюзивные автомобили проекта", "en": "Perks, in-game currency and exclusive cars" },
+    "button": { "text": { "ru": "Открыть магазин", "en": "Open shop" }, "url": "https://t.me/aypycproject" },
+    "items": []
+  }
+}
