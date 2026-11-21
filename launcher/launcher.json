@@ -1,0 +1,41 @@
+{
+  "server": {
+    "name": "Aurus Project",
+    "tag": "#1",
+    "ip": "87.228.5.48",
+    "port": 22003,
+    "maxPlayers": 70,
+    "label": { "ru": "Основной сервер", "en": "Main server" }
+  },
+
+  "manifestUrl": "game/manifest.json",
+  "newsUrl": "news.json",
+
+  "links": {
+    "shop": "https://t.me/aypycproject"
+  },
+
+  "sidebarLinks": [
+    { "title": "Telegram", "icon": "telegram", "url": "https://t.me/aypycproject" }
+  ],
+
+  "banner": {
+    "enabled": true,
+    "title": { "ru": "Добро пожаловать!", "en": "Welcome!" },
+    "subtitle": { "ru": "Заходи — мы ждём тебя на сервере", "en": "Join us on the server" }
+  },
+
+  "texts": {
+  },
+
+  "maintenance": {
+    "enabled": false,
+    "blockPlay": false,
+    "message": {
+      "ru": "На сервере проводятся технические работы до 14:00 МСК.",
+      "en": "The server is under maintenance until 14:00 MSK."
+    }
+  },
+
+  "minLauncherVersion": "1.0.0"
+}
